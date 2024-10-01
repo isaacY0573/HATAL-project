@@ -41,3 +41,6 @@ The processed video will be saved at the specified output path.
 
 Keyboard Controls:
 Press q during playback to exit the application.
+
+by the way: just to mention that i had a stressful time lately, so if i had the time im sure this project would be alot better...
+thank you very much for the opportunity :)
