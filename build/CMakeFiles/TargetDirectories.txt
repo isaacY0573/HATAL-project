@@ -1,0 +1,3 @@
+C:/Users/isaac josef/Aprojects_HATAL/test/build/CMakeFiles/test.dir
+C:/Users/isaac josef/Aprojects_HATAL/test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/isaac josef/Aprojects_HATAL/test/build/CMakeFiles/ZERO_CHECK.dir
